@@ -8,6 +8,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 ## Code scaffolding
 
+
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
@@ -26,3 +27,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 # angular-set-cookie
+# Screen
+
+<img width="1439" alt="Screen Shot 2566-03-07 at 21 53 17" src="https://user-images.githubusercontent.com/85428747/223458894-6965657b-6456-41b7-9634-ec1f9192efac.png">
